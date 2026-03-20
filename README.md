@@ -6,3 +6,5 @@
 
  trackball misto trackpadu, <img width="640" height="481" alt="image" src="https://github.com/user-attachments/assets/9f63d5bc-b174-4c05-96b0-852a055e85ce" />
  crosses tent, dve mozna tri separe pcbcka pro posledni a predposledni column v rovine ?
+
+ dual trackball nebo trackball/trackpad?
